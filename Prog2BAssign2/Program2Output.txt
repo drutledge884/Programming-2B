@@ -1,0 +1,604 @@
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+No contents.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+RD001
+Enter the buyers name.
+Joe
+Enter the sellers name.
+Bill
+Enter the final bidding price.
+25.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+GH322
+Enter the buyers name.
+Mary
+Enter the sellers name.
+Tom
+Enter the final bidding price.
+110.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+BD123
+Enter the buyers name.
+Mark
+Enter the sellers name.
+Jerry
+Enter the final bidding price.
+10.56
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+SB021
+Enter the buyers name.
+Chris
+Enter the sellers name.
+Tom
+Enter the final bidding price.
+1087.99
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+     RD001       Joe      Bill        25
+     GH322      Mary       Tom       110
+     BD123      Mark     Jerry     10.56
+     SB021     Chris       Tom   1087.99
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+BC001
+Enter the buyers name.
+Anysha
+Enter the sellers name.
+LaToya
+Enter the final bidding price.
+12.50
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+SX112
+Enter the buyers name.
+Andy
+Enter the sellers name.
+Lance
+Enter the final bidding price.
+86.12
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+ZZ111
+Enter the buyers name.
+Brenda
+Enter the sellers name.
+Charles
+Enter the final bidding price.
+11.11
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+RD003
+Enter the buyers name.
+Bobbie
+Enter the sellers name.
+Jackie
+Enter the final bidding price.
+150.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+GH001
+Enter the buyers name.
+Lynn
+Enter the sellers name.
+Len
+Enter the final bidding price.
+12.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+BD002
+Enter the buyers name.
+Larry
+Enter the sellers name.
+Lynn
+Enter the final bidding price.
+18.15
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+MD034
+Enter the buyers name.
+Mary
+Enter the sellers name.
+Bill
+Enter the final bidding price.
+54.54
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+BC002
+Enter the buyers name.
+Tom
+Enter the sellers name.
+Lannette
+Enter the final bidding price.
+65.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+     RD001       Joe      Bill        25
+     GH322      Mary       Tom       110
+     BD123      Mark     Jerry     10.56
+     SB021     Chris       Tom   1087.99
+     BC001    Anysha    LaToya      12.5
+     SX112      Andy     Lance     86.12
+     ZZ111    Brenda   Charles     11.11
+     RD003    Bobbie    Jackie       150
+     GH001      Lynn       Len        12
+     BD002     Larry      Lynn     18.15
+     MD034      Mary      Bill     54.54
+     BC002       Tom  Lannette        65
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+4
+===========================================
+Enter the item ID of the node to be searched.
+RD091
+Error. Node not found.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+RD004
+Enter the buyers name.
+Barbie
+Enter the sellers name.
+Ken
+Enter the final bidding price.
+14.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+SX102
+Enter the buyers name.
+Sam
+Enter the sellers name.
+Josh
+Enter the final bidding price.
+10.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+ZZ001
+Enter the buyers name.
+Bill
+Enter the sellers name.
+Jerry
+Enter the final bidding price.
+14.56
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+     RD001       Joe      Bill        25
+     GH322      Mary       Tom       110
+     BD123      Mark     Jerry     10.56
+     SB021     Chris       Tom   1087.99
+     BC001    Anysha    LaToya      12.5
+     SX112      Andy     Lance     86.12
+     ZZ111    Brenda   Charles     11.11
+     RD003    Bobbie    Jackie       150
+     GH001      Lynn       Len        12
+     BD002     Larry      Lynn     18.15
+     MD034      Mary      Bill     54.54
+     BC002       Tom  Lannette        65
+     RD004    Barbie       Ken        14
+     SX102       Sam      Josh        10
+     ZZ001      Bill     Jerry     14.56
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+4
+===========================================
+Enter the item ID of the node to be searched.
+BD002
+Error. Node not found.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+2
+===========================================
+Enter the item ID of the node to be deleted.
+SX102
+The node was deleted.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+     RD001       Joe      Bill        25
+     GH322      Mary       Tom       110
+     BD123      Mark     Jerry     10.56
+     SB021     Chris       Tom   1087.99
+     BC001    Anysha    LaToya      12.5
+     SX112      Andy     Lance     86.12
+     ZZ111    Brenda   Charles     11.11
+     RD003    Bobbie    Jackie       150
+     GH001      Lynn       Len        12
+     BD002     Larry      Lynn     18.15
+     MD034      Mary      Bill     54.54
+     BC002       Tom  Lannette        65
+     RD004    Barbie       Ken        14
+     SX102       Sam      Josh        10
+     ZZ001      Bill     Jerry     14.56
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+AG001
+Enter the buyers name.
+Mark
+Enter the sellers name.
+Bobbie
+Enter the final bidding price.
+10.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+SX103
+Enter the buyers name.
+Keri
+Enter the sellers name.
+Jenny
+Enter the final bidding price.
+45.66
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+RD105
+Enter the buyers name.
+Larry
+Enter the sellers name.
+Jackie
+Enter the final bidding price.
+210.56
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+     RD001       Joe      Bill        25
+     GH322      Mary       Tom       110
+     BD123      Mark     Jerry     10.56
+     SB021     Chris       Tom   1087.99
+     BC001    Anysha    LaToya      12.5
+     SX112      Andy     Lance     86.12
+     ZZ111    Brenda   Charles     11.11
+     RD003    Bobbie    Jackie       150
+     GH001      Lynn       Len        12
+     BD002     Larry      Lynn     18.15
+     MD034      Mary      Bill     54.54
+     BC002       Tom  Lannette        65
+     RD004    Barbie       Ken        14
+     SX102       Sam      Josh        10
+     ZZ001      Bill     Jerry     14.56
+     AG001      Mark    Bobbie        10
+     SX103      Keri     Jenny     45.66
+     RD105     Larry    Jackie    210.56
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+4
+===========================================
+Enter the item ID of the node to be searched.
+BD002
+Error. Node not found.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+2
+===========================================
+Enter the item ID of the node to be deleted.
+ZZ111
+The node was deleted.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+2
+===========================================
+Enter the item ID of the node to be deleted.
+FH001
+The node was deleted.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+     RD001       Joe      Bill        25
+     GH322      Mary       Tom       110
+     BD123      Mark     Jerry     10.56
+     SB021     Chris       Tom   1087.99
+     BC001    Anysha    LaToya      12.5
+     SX112      Andy     Lance     86.12
+     ZZ111    Brenda   Charles     11.11
+     RD003    Bobbie    Jackie       150
+     GH001      Lynn       Len        12
+     BD002     Larry      Lynn     18.15
+     MD034      Mary      Bill     54.54
+     BC002       Tom  Lannette        65
+     RD004    Barbie       Ken        14
+     SX102       Sam      Josh        10
+     ZZ001      Bill     Jerry     14.56
+     AG001      Mark    Bobbie        10
+     SX103      Keri     Jenny     45.66
+     RD105     Larry    Jackie    210.56
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+MD003
+Enter the buyers name.
+Bill
+Enter the sellers name.
+Randy
+Enter the final bidding price.
+23.00
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+AG002
+Enter the buyers name.
+Grace
+Enter the sellers name.
+Hillary
+Enter the final bidding price.
+15.88
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+1
+===========================================
+Enter the item ID.
+BD007
+Enter the buyers name.
+Sarah
+Enter the sellers name.
+Adam
+Enter the final bidding price.
+23.12
+The node was added.
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
+3
+===========================================
+List Contents:
+     RD001       Joe      Bill        25
+     GH322      Mary       Tom       110
+     BD123      Mark     Jerry     10.56
+     SB021     Chris       Tom   1087.99
+     BC001    Anysha    LaToya      12.5
+     SX112      Andy     Lance     86.12
+     ZZ111    Brenda   Charles     11.11
+     RD003    Bobbie    Jackie       150
+     GH001      Lynn       Len        12
+     BD002     Larry      Lynn     18.15
+     MD034      Mary      Bill     54.54
+     BC002       Tom  Lannette        65
+     RD004    Barbie       Ken        14
+     SX102       Sam      Josh        10
+     ZZ001      Bill     Jerry     14.56
+     AG001      Mark    Bobbie        10
+     SX103      Keri     Jenny     45.66
+     RD105     Larry    Jackie    210.56
+     MD003      Bill     Randy        23
+     AG002     Grace   Hillary     15.88
+     BD007     Sarah      Adam     23.12
+===========================================
+Enter 1 to insert a node.
+Enter 2 to delete a node.
+Enter 3 to print the list.
+Enter 4 to find a node.
+Enter 5 to end program.
